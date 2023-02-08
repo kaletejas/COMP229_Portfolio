@@ -1,0 +1,27 @@
+/*custom css goes here*/
+
+.background{
+    background:  #fcecba;
+}
+a {
+    color: #ff7d03;
+    text-decoration: none;
+}
+h1 {
+    
+    color: #7e3d00;
+    margin: 10px;
+    font-family: 'Itim', cursive;
+}
+
+h2 {
+    margin: 20px;
+}
+
+h3 {
+    margin: 20px;
+}
+
+h4 {
+    margin: 20px;
+}
